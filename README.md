@@ -1,0 +1,2 @@
+# auto_backup_script
+每3天自动备份网站目录和openlist配置文件至本地openlist webdav
